@@ -1,1 +1,1 @@
-# omits.github.io
+# omitips.github.io
